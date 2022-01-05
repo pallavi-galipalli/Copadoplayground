@@ -1,0 +1,2 @@
+# Copadoplayground
+Copado playground repository
